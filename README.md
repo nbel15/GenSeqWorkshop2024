@@ -1,6 +1,15 @@
 # GenSeqWorkshop
 Genomic Sequencing Workshop - Unlocking the Potential of MinION
 
+## Workshop details
+<div id="details">
+  <ul>
+    <li> <i class="fa fa-calendar" style="font-size:36px"></i> Thursday 26 and Friday 27, September 2024 // 9:00AM - 5:00PM </li>
+    <li>Higher Institute for Biotechnology, University of Manouba, Tunisia </li>
+    <li>Free with registration</li>
+  </ul>
+ </div>
+ 
 ## Speaker
 **Naima Bel Mokhtar**
 <br>
