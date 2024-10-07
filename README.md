@@ -14,5 +14,9 @@ Genomic Sequencing Workshop - Unlocking the Potential of MinION
 **Naima Bel Mokhtar**
 <br>
 Naima is a post-doctoral researcher at the Laboratory of Systems Microbiology and Applied Genomics, University of PATRAS. As a bioinformatics analyst, she gained extensive experience to manipulate and investigate complex datasets from various sources, including international research projects.
+<br></br>
+**Yiannis Galiatsatos**
+<br>
+Yiannis Galiatsatos is a highly skilled researcher and expert in the field of nanopore sequencing technology, particularly with the MinION platform. His work is distinguished by his expertise in preparing MinION sequencing libraries and developing custom protocols tailored to specific research needs. 
 
 
